@@ -1,5 +1,5 @@
 <p align="center">
-<b> Object detection tools to detect tow truckss</b>
+<b> Object detection tools to detect tow trucks</b>
 </p>
 
 <p align=center>
