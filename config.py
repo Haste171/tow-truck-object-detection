@@ -58,19 +58,19 @@ def get_model_config(model_size: Literal["small", "medium", "large", "xlarge"]) 
         },
         "medium": {
             "model": "yolov8m.pt",
-            "epochs": 100,
+            "epochs": 200,
             "batch": 32,
             "task_name": "YOLOv8m Training"
         },
         "large": {
             "model": "yolov8l.pt",
-            "epochs": 150,
+            "epochs": 400,
             "batch": 16,
             "task_name": "YOLOv8l Training"
         },
         "xlarge": {
             "model": "yolov8x.pt",
-            "epochs": 150,
+            "epochs": 400,
             "batch": 8,           
             "task_name": "YOLOv8xl Training"
         }
