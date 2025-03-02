@@ -1,7 +1,7 @@
 <p align="center">
 <br><br><br>
 <a href="https://github.com/Haste171/tow-truck-object-detection">
-    <img src="data/preview.png" width="760px" height="400px">
+    <img src="preview/preview.png" width="760px" height="400px">
     </a>
 <br><br><br>
 </p>
